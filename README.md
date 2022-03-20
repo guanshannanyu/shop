@@ -1,2 +1,0 @@
-# shop
-try to learn
